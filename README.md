@@ -1,4 +1,4 @@
-<center># 👉 Greetings, fellow nerds! I'm TJ! 👋 👀</center>
+# 👉 Greetings, fellow nerds! I'm TJ! 👋 👀
 
 I'm a full-stack software engineer with a background in film production and beer brewing operations, located in Colorado's Denver Metro area.  I love learning new technologies and applying them to new problems.  When I'm not programming I can often be found practicing Brazilian Jiu-Jitsu, PC gaming, or going on a scenic hike.
 
