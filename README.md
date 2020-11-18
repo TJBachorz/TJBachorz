@@ -22,8 +22,8 @@ I'm a full-stack software engineer with a background in film production and beer
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" width="40" height="40"/>](https://www.linkedin.com/in/tjbachorz/)      [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="39" height="39"/>](https://tjbachorz.medium.com/)      [<img src="https://i.pinimg.com/564x/28/90/ba/2890bac9ba41e52707f36268231dfe9e.jpg" width="39" height="39"/>](https://twitter.com/ThomasBachorz)
 
-![TJ Bachorz's github stats](https://github-readme-stats.vercel.app/api?username=TJBachorz&show_icons=true&theme=synthwave) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJBachorz&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=TJBachorz&layout=compact&hide=html&hide_border=true&theme=plain)
+![TJ Bachorz's github stats](https://github-readme-stats.vercel.app/api?username=TJBachorz&show_icons=true&theme=synthwave&hide=stars) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJBachorz&layout=compact&theme=plain&hide_border=true)
 
 <!--
 **TJBachorz/TJBachorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
