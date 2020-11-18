@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with a background in film production and beer brewing operations, located in Colorado's Denver Metro area.  I love learning new technologies and applying them to new problems.  When I'm not programming I can often be found practicing Brazilian Jiu-Jitsu, PC gaming, or going on a scenic hike.
 
-## Software Engineering Projects:
+### Software Engineering Projects:
   
 - **ABC Data Logger** - ([Frontend](https://github.com/TJBachorz/ABC-Data-Logger-FE) | [Backend](https://github.com/TJBachorz/ABC_Data_Logger_BE) | [Demo](https://www.loom.com/share/ceb43bedf201465f8bec3eee151d2bbd))
 
@@ -18,7 +18,12 @@ I'm a full-stack software engineer with a background in film production and beer
     
 **Currently working on 👉👉👉** Continuing development on the ABC Data Logger in hopes of deploying it to Google Play and Apple Stores in the near future.  Also developing a portfolio website.
 
-## Contact me:
+### Languages/Frameworks:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width="45" height="45"/>
+
+
+### Contact me:
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" width="40" height="40"/>](https://www.linkedin.com/in/tjbachorz/)      [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="39" height="39"/>](https://tjbachorz.medium.com/)      [<img src="https://i.pinimg.com/564x/28/90/ba/2890bac9ba41e52707f36268231dfe9e.jpg" width="39" height="39"/>](https://twitter.com/ThomasBachorz)
 
