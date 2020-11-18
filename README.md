@@ -1,14 +1,11 @@
-👉 Greetings, fellow nerds! I'm TJ! 👋 👀
+                                            👉 Greetings, fellow nerds! I'm TJ! 👋 👀
 I'm a full-stack software engineer with a background in film production and beer brewing operations, located in Colorado's Denver Metro area.  I love learning new technologies and applying them to new problems.  When I'm not programming I can often be found practicing Brazilian Jiu-Jitsu, PC gaming, or going on a scenic hike.
 
-Recent Software Engineering Projects:
+Software Engineering Projects:
   
-ABC Data Logger - Frontend | Backend | Demo
-Designed a mobile app that efficiently logs and graphs behavioral data for behavioral therapists and clients.
-Harnessed React Native Navigation library to create an intuitive UI and engaging user experience.
-Facilitated account linking to centralize and manage data using carefully planned ORMs.
-Implemented Python/Django backend to persist JWT-authenticated user data and make speedy HTTP requests.
-Engineered the application to function on both iOS and Android devices in preparation of iOS and Google Play Store releases.
+ABC Data Logger - (Frontend | Backend | Demo)
+
+  Families of children with developmental disabilities have a silent daily struggle that only gets more difficult when they have to log data during times when therapists are not present. The ABC Data Logger is a mobile app created using React Native with a Python/Django backend that seeks to make this data logging quick and efficient. Users can create cases and file incident reports for a specific child or client.  Parents can also link their accounts with spouses, therapists, and caretakers so that everyone involved with caring for the child can log data, all in the same place.
 
 
 Contact me:
