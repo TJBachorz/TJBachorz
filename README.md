@@ -3,7 +3,7 @@ I'm a full-stack software engineer with a background in film production and beer
 
 Contact me:
 
-[<img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" width="35" height="35"/>](https://www.linkedin.com/in/tjbachorz/)    [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="35" height="35"/>](https://tjbachorz.medium.com/)   [<img src="https://i.pinimg.com/564x/28/90/ba/2890bac9ba41e52707f36268231dfe9e.jpg" width="35" height="35"/>](https://twitter.com/ThomasBachorz)
+[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="35" height="35"/>](https://www.linkedin.com/in/tjbachorz/)    [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="35" height="35"/>](https://tjbachorz.medium.com/)   [<img src="https://i.pinimg.com/564x/28/90/ba/2890bac9ba41e52707f36268231dfe9e.jpg" width="35" height="35"/>](https://twitter.com/ThomasBachorz)
 
 <!--
 **TJBachorz/TJBachorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
