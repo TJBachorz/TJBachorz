@@ -14,7 +14,9 @@ I'm a full-stack software engineer with a background in film production and beer
     
 - **Looksy** - ([Frontend](https://github.com/TJBachorz/looksy-frontend) | [Backend](https://github.com/TJBachorz/looksy_backend) | [Demo](https://www.youtube.com/watch?v=HPJ6KVPMPac))
     * A mobile web app that leverages augmented reality to allow users to virtually decorate their homes, apartments, and yards in real time. Create a profile, upload an avatar, and then use your phones camera to size and place 3D models in your real-world environment.
-
+    
+    
+**Currently working on 👉👉👉** Continuing development on the ABC Data Logger in hopes of deploying it to Google Play and Apple Stores in the near future.  Also developing a portfolio website.
 
 ## Contact me:
 
