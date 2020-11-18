@@ -18,7 +18,7 @@ I'm a full-stack software engineer with a background in film production and beer
 
 ## Contact me:
 
-[<img src="https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png" width="41" height="41"/>](https://www.linkedin.com/in/tjbachorz/)      [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="39" height="39"/>](https://tjbachorz.medium.com/)      [<img src="https://i.pinimg.com/564x/28/90/ba/2890bac9ba41e52707f36268231dfe9e.jpg" width="39" height="39"/>](https://twitter.com/ThomasBachorz)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" width="40" height="40"/>](https://www.linkedin.com/in/tjbachorz/)      [<img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" width="39" height="39"/>](https://tjbachorz.medium.com/)      [<img src="https://i.pinimg.com/564x/28/90/ba/2890bac9ba41e52707f36268231dfe9e.jpg" width="39" height="39"/>](https://twitter.com/ThomasBachorz)
 
 <!--
 **TJBachorz/TJBachorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
