@@ -2,7 +2,8 @@
 I'm a full-stack software engineer with a background in film production and beer brewing operations, located in Colorado's Denver Metro area.  I love learning new technologies and applying them to new problems.  When I'm not programming I can often be found practicing Brazilian Jiu-Jitsu, PC gaming, or going on a scenic hike.
 
 Contact me:
-[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="100" height="100"/>](https://www.linkedin.com/in/tjbachorz/)
+
+[<img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"/>](https://www.linkedin.com/in/tjbachorz/)
 
 <!--
 **TJBachorz/TJBachorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
