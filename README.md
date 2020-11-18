@@ -6,7 +6,10 @@ I'm a full-stack software engineer with a background in film production and beer
   
 - **ABC Data Logger** - ([Frontend](https://github.com/TJBachorz/ABC-Data-Logger-FE) | [Backend](https://github.com/TJBachorz/ABC_Data_Logger_BE) | [Demo](https://www.loom.com/share/ceb43bedf201465f8bec3eee151d2bbd))
 
-  Families of children with developmental disabilities have a silent daily struggle that only gets more difficult when they have to log data during times when therapists are not present. The ABC Data Logger is a mobile app created using React Native with a Python/Django backend that seeks to make this data logging quick and efficient. Users can create cases and file incident reports for a specific child or client.  Parents can also link their accounts with spouses, therapists, and caretakers so that everyone involved with caring for the child can log data, all in the same place.
+* Families of children with developmental disabilities have a silent daily struggle that only gets more difficult when they have to log data during times when therapists are not present. The ABC Data Logger is a mobile app created using React Native with a Python/Django backend that seeks to make this data logging quick and efficient. Users can create cases and file incident reports for a specific child or client.  Parents can also link their accounts with spouses, therapists, and caretakers so that everyone involved with caring for the child can log data, all in the same place.
+  
+  
+- **Epic Beer Run** - ([Frontend](https://github.com/TJBachorz/Epic-Beer-Run-FE) | [Backend](https://github.com/TJBachorz/Epic-Beer-Run-BE) | [Demo](https://www.loom.com/share/b6fc55760ca9464a8a4d99d714bfb18e) | [Hosted](https://epic-beer-run.web.app/))
 
 
 ## Contact me:
