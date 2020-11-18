@@ -20,7 +20,8 @@ I'm a full-stack software engineer with a background in film production and beer
 
 ### Languages/Frameworks:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png" width="45" height="45"/>
+<img src="https://www.logolynx.com/images/logolynx/e1/e12c387bd8ebccf18a4741b4b83a6d71.png" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" width="45" height="45"/>
 
 
 ### Contact me:
