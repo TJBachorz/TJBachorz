@@ -28,7 +28,7 @@ I'm a full-stack software engineer with a background in film production and beer
 
 ### Stats:
 
-![TJ Bachorz's github stats](https://github-readme-stats.vercel.app/api?username=TJBachorz&show_icons=true&theme=synthwave&hide=stars) 
+![TJ Bachorz's github stats](https://github-readme-stats.vercel.app/api?username=TJBachorz&show_icons=true&theme=synthwave&hide=stars,issues) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TJBachorz&layout=compact&theme=plain&hide_border=true)
 
 <!--
