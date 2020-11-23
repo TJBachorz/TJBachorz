@@ -12,7 +12,7 @@ I'm a full-stack software engineer with a background in film production and beer
 - **Epic Beer Run** - ([Frontend](https://github.com/TJBachorz/Epic-Beer-Run-FE) | [Backend](https://github.com/TJBachorz/Epic-Beer-Run-BE) | [Demo](https://www.loom.com/share/b6fc55760ca9464a8a4d99d714bfb18e) | [Hosted](https://epic-beer-run.web.app/))
     * A fun web app to pay homage to my years spent running brewery operations.  Built in React, and using the react-simple-maps package and TOPOJSON file structure, this fun and interactive US map allows users to sort breweries by state, visit their websites, and add them to their roadtrip itinerary. Users can then drag-and-drop their brewery destinations in order to play with the structure of their trip.  
     
-- **Looksy** - ([Frontend](https://github.com/TJBachorz/looksy-frontend) | [Backend](https://github.com/TJBachorz/looksy_backend) | [Demo](https://www.youtube.com/watch?v=HPJ6KVPMPac))
+- **Looksy** - ([Frontend](https://github.com/TJBachorz/looksy-frontend) | [Backend](https://github.com/TJBachorz/looksy_backend) | [Node/AWS Backend](https://github.com/TJBachorz/looksy-file-uploader) | [Demo](https://www.youtube.com/watch?v=HPJ6KVPMPac))
     * A mobile web app that leverages augmented reality to allow users to virtually decorate their homes, apartments, and yards in real time. Create a profile, upload an avatar, and then use your phones camera to size and place 3D models in your real-world environment.
     
     
