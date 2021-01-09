@@ -16,7 +16,7 @@ I'm a full-stack software engineer with a background in film production and beer
     * A mobile web app that leverages augmented reality to allow users to virtually decorate their homes, apartments, and yards in real time. Create a profile, upload an avatar, and then use your phones camera to size and place 3D models in your real-world environment.
     
     
-**Currently working on &nbsp; 👉👉👉** &nbsp; Freelance website development for SW33T.com and Church Street Brewing Company. Also, continuing development on the ABC Data Logger in hopes of deploying it to Google Play and Apple Stores in the near future.  Just launched my new [portfolio site](https://tjbachorz.live), check it out!
+**Currently working on &nbsp; 👉👉👉** &nbsp; Teaching myself GraphQL, and continuing freelance website development for SW33T.com and Church Street Brewing Company. Also, continuing development on the ABC Data Logger in hopes of deploying it to Google Play and Apple Stores in the near future.  Just launched my new [portfolio site](https://tjbachorz.live), check it out!
 
 ### Languages/Frameworks:
 
