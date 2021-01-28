@@ -1,6 +1,6 @@
 # <div align="center">👉 Greetings, fellow nerds! &nbsp;  I'm TJ! 👋 👀</div>
 
-I'm a full-stack software engineer with a background in film production and beer brewing operations, located in Colorado's Denver Metro area.  I love learning new technologies and applying them to new problems.  When I'm not programming I can often be found practicing Brazilian Jiu-Jitsu, PC gaming, or going on a scenic hike.
+I'm a full-stack software engineer with a background in film production and beer brewing operations, located in Colorado's Denver Metro area.  I love learning new technologies and applying them to new problems.  When I'm not programming I can often be found practicing Brazilian Jiu-Jitsu, PC gaming, or going on a scenic hike. Ask me about all of the above! I'm always happy to talk with new people and nerd-out about the things I love.
 
 ### Software Engineering Projects:
   
